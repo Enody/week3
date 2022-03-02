@@ -1,0 +1,151 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+#header {
+    background-image: url(/Users/dennisenodien/index.html/PROJECT/HTMLProjectAssets/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+    height: 700px;
+    width: auto;
+    color: #ffffff;
+    padding: 40px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: brightness(70%);
+}
+#rightside {
+     float: right;
+     word-spacing: 30px;
+    
+}
+li {
+    display: inline;
+    
+}
+ul {
+   font-size: 30px;
+}
+#slogan {
+    margin-top: 160px;
+    text-align: center;
+
+}
+h1 {
+    font-size: 100px;
+    border: 1px solid #ffffff;
+    width: 500px;
+    margin: auto;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-width: 2px;
+    
+}
+#slogan p {
+    font-size: 50px;
+    margin-top: 20px;
+}
+.card1{
+  height: 400px;
+  background-color: black;
+  display: flex;
+  border: 1px solid #ffffff;
+  border-top-width: 30px;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+}
+
+.card img {
+    max-width: 700px;
+    max-height: 400px;
+}
+#box1 {
+    float: left;
+    color: #ffffff;
+    text-align: left;
+    border: 1px solid black;
+    width: 700px;
+    font-size: 30px;
+    margin-top: 90px;
+    margin-left: 200px;
+}
+#card2{
+    height: 400px;
+    background-color: black;
+    display: flex;
+    flex-direction: row-reverse;
+    position: static;
+  }
+  
+  #card2 img {
+      max-width: 700px;
+      max-height: 400px;
+      
+      
+  }
+  #box2 {
+      float: left;
+      color: #ffffff;
+      text-align: left;
+      border: 1px solid black;
+      width: 700px;
+      font-size: 30px;
+      margin-top: 90px;
+      margin-left: 90px;
+      margin-right: 50px;
+  }
+  #card3{
+    height: 400px;
+    background-color: black;
+    display: flex;
+    flex-direction: row-reverse;
+    top: -130px;
+    position: relative;
+    border: 1px solid #ffffff;
+    border-top-width: 30px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+  }
+  
+  #card3 img {
+      max-width: 700px;
+      max-height: 400px;
+      
+      
+  }
+  #box2 {
+      float: left;
+      color: #ffffff;
+      text-align: left;
+      border: 1px solid black;
+      width: 700px;
+      font-size: 30px;
+      margin-top: 90px;
+      margin-left: 90px;
+      margin-right: 50px;
+  }
+  #card4{
+    height: 400px;
+    background-color: black;
+    display: flex;
+    position: relative;
+    top: -150px;
+  }
+  
+  #card4 img {
+      max-width: 700px;
+      max-height: 400px;
+  }
+  #box1 {
+      float: left;
+      color: #ffffff;
+      text-align: left;
+      border: 1px solid black;
+      width: 700px;
+      font-size: 30px;
+      margin-top: 90px;
+      margin-left: 200px;
+      margin-right: 20px;
+  }
